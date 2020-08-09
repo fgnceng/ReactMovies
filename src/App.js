@@ -5,7 +5,7 @@ import SearchMovies from './SearchMovies'
 function App() {
   return (
     <div className="container">
-      <h1 className="title">Hello Figen SearchApp</h1>
+      <h1 className="title">Movies Search</h1>
       <SearchMovies />
     </div>
   )
